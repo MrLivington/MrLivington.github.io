@@ -75,7 +75,11 @@ p{
 	margin:20px;
 	color:#CCC;
 }
+
+figure{
+	opacity:1.0;
 	
+}
 
 footer {
 	background-color:#06F;
